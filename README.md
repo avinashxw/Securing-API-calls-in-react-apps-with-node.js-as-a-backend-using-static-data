@@ -44,3 +44,8 @@ and clone code from **main** branch to this folder
 to run backend server, **node server.js**
 
 to run frontend server, **npm run dev**
+
+<img src="server-running-3001.png" title="server-running-3001" />
+<img src="hello-from-server.png" title="hello-from-server" />
+<img src="login-button.png" title="login-button" />
+<img src="fetch-data-protected.png" title="fetch-data-protected" />
